@@ -19,3 +19,10 @@ A entrada deverá receber:
  A função deverá retornar o consumo total de crédito em uma única linha. O resultado deve ser um número decimal com duas casas decimais.
  
  ## Exemplos
+ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
+
+| Entrada	| Saída |
+|---------|-------|
+| 3 10,local,0.10 5,nacional,0.20 2,internacional,0.50	| 3.00 |
+| 2 20,local,0.05 3,internacional,0.35	| 2.05 | 
+| 1 5,nacional,0.10	| 0.50 |
