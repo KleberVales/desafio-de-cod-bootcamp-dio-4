@@ -14,3 +14,8 @@ A entrada deverá receber:
   * Um número inteiro representando a duração da ligação em minutos.
   * Uma string representando o tipo da ligação (local, nacional, ou internacional).
   * Um número decimal representando o valor do crédito por minuto para aquele tipo de ligação.
+
+ ## Saída
+ A função deverá retornar o consumo total de crédito em uma única linha. O resultado deve ser um número decimal com duas casas decimais.
+ 
+ ## Exemplos
