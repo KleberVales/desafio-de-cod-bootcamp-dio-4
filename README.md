@@ -6,3 +6,11 @@ Implemente um sistema para monitorar o uso de crédito em ligações telefônica
 Cada ligação é representada por um triplo de valores: a duração da ligação (em minutos), o tipo da ligação e o valor do crédito por minuto de acordo com o tipo de ligação.
 
 ## Entrada
+
+A entrada deverá receber:
+
+- Um número inteiro n, representando o número de ligações.
+- Para cada ligação, uma linha contendo os valores a seguir separados por vírgula:
+  * Um número inteiro representando a duração da ligação em minutos.
+  * Uma string representando o tipo da ligação (local, nacional, ou internacional).
+  * Um número decimal representando o valor do crédito por minuto para aquele tipo de ligação.
